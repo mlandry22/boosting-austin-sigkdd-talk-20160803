@@ -1,8 +1,11 @@
 Materials from Austin SIGKDD talk on boosting, 8/3/16
 
 Slides
-* [Mine, from the talk, pptx](https://github.com/mlandry22/boosting-austin-sigkdd-talk-20160803/blob/master/Boosting-Austin-SIGKDD.pptx)
-* [Scikit-learn slides, from it's author, PDF](https://github.com/mlandry22/boosting-austin-sigkdd-talk-20160803/blob/master/Sklearn-Boosting-slides-140224130205-phpapp02.pdf)
+* Mine, from the talk
+  * [pptx](https://github.com/mlandry22/boosting-austin-sigkdd-talk-20160803/blob/master/Boosting-Austin-SIGKDD.pptx)
+  * [PDF](https://github.com/mlandry22/boosting-austin-sigkdd-talk-20160803/blob/master/Boosting-Austin-SIGKDD.pdf)
+* Scikit-learn slides, from it's author
+  * [PDF](https://github.com/mlandry22/boosting-austin-sigkdd-talk-20160803/blob/master/Sklearn-Boosting-slides-140224130205-phpapp02.pdf)
 
 H2O GBM Tuning Guide (by coworker Arno Candel)
 * [blog, R markdown](http://blog.h2o.ai/2016/06/h2o-gbm-tuning-tutorial-for-r)
